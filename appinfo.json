@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Lukas Vermeer",
+    "longName": "Clickbait o'clock",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Clickbait o'clock",
+    "uuid": "5c16889f-b54f-4aa3-9b14-30892bb5594f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
